@@ -1,8 +1,26 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.juancolonna.twa",
-        "sha256_cert_fingerprints": ["8B:7A:6C:5B:79:C4:55:FD:24:F2:51:A5:B8:25:E5:A2:4D:F7:82:86:73:1A:80:02:A0:31:09:37:35:F9:34:9B"]
-      }
-    }]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.juancolonna.twa",
+      "sha256_cert_fingerprints": [
+        "8B:7A:6C:5B:79:C4:55:FD:24:F2:51:A5:B8:25:E5:A2:4D:F7:82:86:73:1A:80:02:A0:31:09:37:35:F9:34:9B"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.ufamcca.twa",
+      "sha256_cert_fingerprints": [
+        "FD:1F:6A:57:21:AE:B9:55:5F:A9:1D:9F:9B:9B:21:08:6F:1D:EE:F4:A6:87:C7:F5:B5:B3:65:31:EF:AC:28:FE"
+      ]
+    }
+  }
+]
