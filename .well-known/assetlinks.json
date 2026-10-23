@@ -10,5 +10,17 @@
         "8B:7A:6C:5B:79:C4:55:FD:24:F2:51:A5:B8:25:E5:A2:4D:F7:82:86:73:1A:80:02:A0:31:09:37:35:F9:34:9B"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.juancolonna.twa",
+      "sha256_cert_fingerprints": [
+        "7A:E7:6E:0E:DB:5C:EF:4F:56:DE:94:BD:08:11:E5:6C:3A:92:78:FB:CB:A7:F5:72:6F:7E:FB:AB:58:2D:88:5D"
+      ]
+    }
   }
 ]
